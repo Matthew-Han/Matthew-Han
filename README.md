@@ -3,10 +3,11 @@ Abstract
 Hi there 👋, I'm [Matthew Han](Https://www.yuanmo.xyz)!
 
 
-[![Matthew Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-han&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="[![Matthew Han's GitHub stats](https://github.com/Matthew-Han)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Han&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Matt's github stats" /></a> | <a href="[![Matthew Han's GitHub stats](https://github.com/Matthew-Han)"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatthewHan&hide_border=true&theme=buefy" /></a> |
+| ------------- | ------------- |
 
 
-[![Matthew Han's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatthewHan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 LeetCode
 --
