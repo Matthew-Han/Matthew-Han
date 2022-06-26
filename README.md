@@ -3,7 +3,7 @@ Abstract
 Hi there 👋, I'm [Matthew Han](Https://www.yuanmo.xyz)!
 <br/>
 <br/>
-| [![Matthew Han's LeetCode stats](https://leetcard.jacoblin.cool/matthewhan?site=cn&ext=activity&theme=wtf&border=0&radius=0)](https://leetcode-cn.com/u/matthewhan/) | <a href="https://github.com/Matthew-Han"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=matthew-han&theme=github-light&hide_border=true&date_format=%5BY.%5Dn.j&locale=en" /></a> |
+| [![Matthew Han's LeetCode stats](https://leetcard.jacoblin.cool/matthewhan?site=cn&ext=activity&theme=light&border=0&radius=0)](https://leetcode-cn.com/u/matthewhan/) | <a href="https://github.com/Matthew-Han"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=matthew-han&theme=github-light&hide_border=true&date_format=%5BY.%5Dn.j&locale=en" /></a> |
 | ------------- | ------------- |
 
 
